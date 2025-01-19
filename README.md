@@ -1,2 +1,3 @@
 # T5-ScienceNewsTitleGenerator
-Fine-tuning a T5 model to assign a title to a Science news corpus.
+
+Generating Science articles titles with T5 (Text-to-Text Transfer Transformer) Google's model 
